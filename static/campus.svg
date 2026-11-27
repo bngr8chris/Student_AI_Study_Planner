@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Illustrated university campus">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8d978"/>
+      <stop offset="1" stop-color="#f2a94f"/>
+    </linearGradient>
+    <linearGradient id="building" x2="0" y2="1">
+      <stop stop-color="#f4e4bc"/>
+      <stop offset="1" stop-color="#c9aa75"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1600v900H0z"/>
+  <circle cx="1270" cy="170" r="74" fill="#ffe9a1" opacity=".8"/>
+  <path fill="#d2a84d" d="M0 510c210-83 375-70 570 3 210-103 430-77 631 13 160-82 282-64 399-5v379H0z"/>
+  <path fill="#748044" d="M0 650c245-90 453-42 665 22 214-98 468-48 657 7 115-47 194-45 278-17v238H0z"/>
+  <path fill="#55432d" d="M0 769c273-61 468-25 676 28 218-75 480-41 672 11 109-30 177-29 252-8v100H0z"/>
+  <g fill="#342b23">
+    <path d="M173 431h365v256H173zM152 431l203-114 204 114z"/>
+    <path d="M585 390h438v298H585zM559 390l245-145 245 145z"/>
+    <path d="M1072 443h337v244h-337zM1048 443l192-109 193 109z"/>
+  </g>
+  <g fill="url(#building)" stroke="#594a36" stroke-width="8">
+    <path d="M197 450h317v224H197zM179 450l176-97 177 97z"/>
+    <path d="M612 410h384v264H612zM588 410l216-122 216 122z"/>
+    <path d="M1095 461h291v213h-291zM1072 461l169-96 170 96z"/>
+  </g>
+  <g fill="#75513a">
+    <path d="M328 551h56v123h-56zM765 517h76v157h-76zM1205 555h68v119h-68z"/>
+  </g>
+  <g fill="#806b47" opacity=".8">
+    <path d="M225 488h54v51h-54zM425 488h54v51h-54zM647 459h57v53h-57zM903 459h57v53h-57zM1122 493h49v48h-49zM1315 493h49v48h-49z"/>
+  </g>
+  <path fill="#ddc794" d="M702 900c64-107 114-166 190-204 73 38 132 97 195 204z"/>
+  <g fill="#39452d">
+    <path d="M49 699h22v138H49zM22 727c-9-67 13-118 38-141 28 32 40 77 19 141-13-41-22-75-22-105-4 40-12 75-35 105z"/>
+    <path d="M1461 699h22v138h-22zM1433 727c-9-67 13-118 38-141 28 32 40 77 19 141-13-41-22-75-22-105-4 40-12 75-35 105z"/>
+    <path d="M538 725h19v113h-19zM514 748c-8-52 10-92 32-110 23 25 33 60 16 110-11-32-18-57-18-81-4 31-10 57-30 81z"/>
+    <path d="M1363 725h19v113h-19zM1339 748c-8-52 10-92 32-110 23 25 33 60 16 110-11-32-18-57-18-81-4 31-10 57-30 81z"/>
+  </g>
+</svg>
