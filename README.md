@@ -2,6 +2,7 @@
 
 A Streamlit app for turning course deadlines, workload, priorities, and weekly availability into a practical study schedule. The interface uses Towson-inspired black and gold, supports English and Spanish, and includes adjustable text sizing. Individual student accounts keep planner data separate. AI features use a server-side Google AI key. Students do not enter or store provider keys. API usage and limits are shared across users of the configured provider account.
 
+
 Students enter their major or intended program when creating an account and can set their academic classification and degree type in **Degree tracker**. The welcome page offers curriculum planning chat before any courses are added. The chat retrieves relevant excerpts from the selected catalog and can use saved courses, degree entries, syllabi, and assignments to recommend future-semester paths appropriate to the student's classification and program.
 
 ## Run locally
